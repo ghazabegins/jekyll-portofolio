@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ghazabegins.cyou/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/blog/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/gallery/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/me/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/apa-itu-shell/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/maths-example/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/welcome-to-jekyll/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/cara-memperbarui-fork-repository/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/how-this-site-was-made/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/thanks/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/python-notes-from-Intro-to-machine-learning/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/react-component-with-dot-notation/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ghazabegins.cyou/tags/</loc>
+  <lastmod>2025-11-22T18:40:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
